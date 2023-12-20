@@ -1,0 +1,1 @@
+Bu repository jenkins -Github webhook entegrasyonu icin olusturulmustur.
