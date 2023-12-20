@@ -2,3 +2,5 @@ Bu kodun push edilmesi ile birlikte jenkins GithubWebhookEU11 job otomatik olara
 
 
 Degisiklik yaptim ve Github-Webhook yine calistirilacak
+
+update 2
